@@ -41,6 +41,6 @@ figma
 
 Be creative and have fun!
 
-## Reviewed by: 
+## Reviewed by: Brock 
 > 
-> Comments:
+> Comments: For me nothing is popping up except a white screen and a few buttons that dont function. I'm wondering if you forgot to push all your stuff up to your repo. 
